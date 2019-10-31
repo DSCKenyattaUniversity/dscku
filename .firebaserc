@@ -1,5 +1,6 @@
 {
   "projects": {
-    "init": "dscku"
+    "init": "dscku",
+    "default": "dsc-ku"
   }
 }
