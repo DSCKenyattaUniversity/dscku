@@ -1370,6 +1370,9 @@ hr{
 
 }
 
+.footer-spacer img {
+  height: 200px;
+}
 .footer-widget a {
   color: #D7D7D7;
 }
